@@ -1,6 +1,6 @@
-# Intro to Machine Learning Starter Code
+# CardioTree Classifier Project (GWC Pathways)
 
-This is the Starter Code for the Cardiotree Classifier project. Use this code to remix this project and start from Part #1 of the Cardiotree Classifier.
+This app presents a rudimentary Heart Disease Predictor which serves to analyze the likelihood of having/developing heart disease based on genetic and lifestyle factors through the Decision Tree machine learning model.
 
 
 ### Project Requirements
@@ -12,17 +12,10 @@ Your project should:
 - Print a text representation of your Decision Tree through the console.
 
 
-### Extensions
-You can extend your project further by:
-- Examine feature importance
-- Create a random forest
-
-
 ###  Attributions
 *If you used any code, stories, or poems from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own. 
 - Indicators of Heart Disease dataset uploaded on Kaggle by Kamil Pytlak: `https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease`
-- Add more if applicable
-
+- Starter Code forked from Girls Who Code Self-Paced Summer 2025 Pathways Program as part of the Intro to Mahcine Learning Course
 ---
 
 ## File Overview
