@@ -11,6 +11,8 @@ This project should:
 - Print how a Decision Tree can be applied to a different field, and give 2-3 factors to be wary of.
 - Print a text representation of your Decision Tree through the console.
 
+### Takeaways
+Over the course of this project, I learned how to import and train a Descision Tree model in a series of data. I also learned about bias in data and how to make sure the model is looking for actual patterns instead of random characteristics. I developed skills in mahcine learning, confusion matrices, and analyzinig data + results. The main component of this proect that I struggled with was learning how to utilize the sklearn libarary and its many tools.
 
 ###  Attributions
 *If you used any code, stories, or poems from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own. 
