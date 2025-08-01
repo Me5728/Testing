@@ -4,7 +4,7 @@ This app presents a rudimentary Heart Disease Predictor which serves to analyze 
 
 
 ### Project Requirements
-Your project should:
+This project should:
 - Show the dataframe after being label encoded and one hot encoded.
 - Use at least two parameters when creating your Decision Tree.
 - Print the training accuracy score, testing accuracy score, and confusion matrix.
